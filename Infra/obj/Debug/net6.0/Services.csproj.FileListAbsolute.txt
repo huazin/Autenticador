@@ -1,0 +1,15 @@
+C:\PJ-Repo\Autenticador\Infra\bin\Debug\net6.0\Services.deps.json
+C:\PJ-Repo\Autenticador\Infra\bin\Debug\net6.0\Services.dll
+C:\PJ-Repo\Autenticador\Infra\bin\Debug\net6.0\Services.pdb
+C:\PJ-Repo\Autenticador\Infra\bin\Debug\net6.0\Domain.dll
+C:\PJ-Repo\Autenticador\Infra\bin\Debug\net6.0\Domain.pdb
+C:\PJ-Repo\Autenticador\Infra\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\PJ-Repo\Autenticador\Infra\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\PJ-Repo\Autenticador\Infra\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\PJ-Repo\Autenticador\Infra\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\PJ-Repo\Autenticador\Infra\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\PJ-Repo\Autenticador\Infra\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\PJ-Repo\Autenticador\Infra\obj\Debug\net6.0\Services.dll
+C:\PJ-Repo\Autenticador\Infra\obj\Debug\net6.0\refint\Services.dll
+C:\PJ-Repo\Autenticador\Infra\obj\Debug\net6.0\Services.pdb
+C:\PJ-Repo\Autenticador\Infra\obj\Debug\net6.0\ref\Services.dll
