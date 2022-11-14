@@ -22,4 +22,4 @@ dotnet install
 dotnet run
 ```
 
-O sistema vai carregar e abri uma applicação com swagger.
+O sistema vai carregar e abri uma aplicação com swagger.
